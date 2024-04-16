@@ -1,5 +1,5 @@
-# battleGame
-Um jogo multiplayer onde todos os jogadores entram em uma arena de batalha e lutam bravamente até que apenas um sobreviva.
+# Gladiator
+Um jogo multiplayer onde todos os jogadores entram em uma arena de batalha e lutam bravamente até que apenas um sobreviva e seja consagrado por todos.
 
 ## Conceito do Jogo
 * É um jogo do tipo battleRoyale, em que os jogadores escolhem um personagem de diferentes estilos e cada um com sua habilidade específica antes de entrar na partida;
