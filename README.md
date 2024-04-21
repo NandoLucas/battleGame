@@ -10,6 +10,7 @@ Um jogo multiplayer onde todos os jogadores entram em uma arena de batalha e lut
 * Os combates e upgrades são em tempo real;
 * Modo de jogo de todos contra todos;
 * Diferentes mapas de jogo;
+* A ideia é fazer com que o jogador utilize o mouse para mirar e atirar e as teclas WASD para movimentação;
 
 ## Estilo visual e arte
 
