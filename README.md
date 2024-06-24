@@ -25,6 +25,6 @@ Um jogo multiplayer onde todos os jogadores entram em uma arena de batalha e lut
 
 ## Plataforma
 
-* O jogo estará disponível para PC apenas;
+* O jogo estará disponível para PC apenas (via Web);
 
 
